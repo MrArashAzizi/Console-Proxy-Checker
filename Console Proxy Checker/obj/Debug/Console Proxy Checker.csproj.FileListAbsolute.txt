@@ -1,0 +1,10 @@
+D:\Microsoft Visual Studio\2020Project\Console Proxy Checker\Console Proxy Checker\bin\Debug\Console Proxy Checker.exe.config
+D:\Microsoft Visual Studio\2020Project\Console Proxy Checker\Console Proxy Checker\bin\Debug\Console Proxy Checker.exe
+D:\Microsoft Visual Studio\2020Project\Console Proxy Checker\Console Proxy Checker\bin\Debug\Console Proxy Checker.pdb
+D:\Microsoft Visual Studio\2020Project\Console Proxy Checker\Console Proxy Checker\bin\Debug\Newtonsoft.Json.dll
+D:\Microsoft Visual Studio\2020Project\Console Proxy Checker\Console Proxy Checker\bin\Debug\Newtonsoft.Json.xml
+D:\Microsoft Visual Studio\2020Project\Console Proxy Checker\Console Proxy Checker\obj\Debug\Console Proxy Checker.csprojAssemblyReference.cache
+D:\Microsoft Visual Studio\2020Project\Console Proxy Checker\Console Proxy Checker\obj\Debug\Console Proxy Checker.csproj.CoreCompileInputs.cache
+D:\Microsoft Visual Studio\2020Project\Console Proxy Checker\Console Proxy Checker\obj\Debug\Console Proxy Checker.csproj.CopyComplete
+D:\Microsoft Visual Studio\2020Project\Console Proxy Checker\Console Proxy Checker\obj\Debug\Console Proxy Checker.exe
+D:\Microsoft Visual Studio\2020Project\Console Proxy Checker\Console Proxy Checker\obj\Debug\Console Proxy Checker.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Console Proxy Checker", "Console Proxy Checker\Console Proxy Checker.csproj", "{43C697B8-27FE-4B66-86B9-840DA928E56D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43C697B8-27FE-4B66-86B9-840DA928E56D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43C697B8-27FE-4B66-86B9-840DA928E56D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43C697B8-27FE-4B66-86B9-840DA928E56D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43C697B8-27FE-4B66-86B9-840DA928E56D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F6770819-6754-49AC-A266-B206DB406D7B}
+	EndGlobalSection
+EndGlobal
